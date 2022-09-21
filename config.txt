@@ -1,0 +1,2 @@
+some configurations that were checked after initial init
+need to pull this file down
